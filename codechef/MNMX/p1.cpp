@@ -22,8 +22,11 @@ int main()
             {
                 minele = tmp;
                 minInd = i;
-            }
-        }
+   
+         }
+
+        
+}
         cout << minele*(n-1) << endl;     
     }   
     
